@@ -1,2 +1,7 @@
 [workspace]
-members = ["tcp-server", "tcp-client"]
+members = [
+"tcp-server",
+"tcp-client",
+"udp-server",
+"udp-client",
+]
