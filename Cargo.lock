@@ -9,3 +9,11 @@ version = "0.1.0"
 [[package]]
 name = "tcp-server"
 version = "0.1.0"
+
+[[package]]
+name = "udp-client"
+version = "0.1.0"
+
+[[package]]
+name = "udp-server"
+version = "0.1.0"
