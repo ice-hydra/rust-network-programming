@@ -9,4 +9,5 @@ members = [
 "using-ipnet",
 "using-mio",
 "using-pnet",
+"using-trust-dns-resolver",
 ]
