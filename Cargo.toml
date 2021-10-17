@@ -5,4 +5,5 @@ members = [
 "udp-server",
 "udp-client",
 "using-ipaddr",
+"using-socketaddr",
 ]
