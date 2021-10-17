@@ -17,3 +17,7 @@ version = "0.1.0"
 [[package]]
 name = "udp-server"
 version = "0.1.0"
+
+[[package]]
+name = "using-ipaddr"
+version = "0.1.0"
